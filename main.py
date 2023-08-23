@@ -1,3 +1,4 @@
+#follow ig @rapleeeyyy
 from faker import Faker
 
 fake = Faker()
